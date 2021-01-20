@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  DirectShow.cpp
+C:\Users\MLpTower\Desktop\Development\MLpGHub\MLpDirectShowPlayer\DirectShowPlayer\DirectShow\DirectShow.cpp(103,39): warning C4101: "hr": Unreferenzierte lokale Variable
+  DirectShowDlg.cpp
+  DirectX_Show.cpp
+  Code wird generiert...
+  DirectShow.vcxproj -> C:\Users\MLpTower\Desktop\Development\MLpGHub\MLpDirectShowPlayer\DirectShowPlayer\Debug\DirectShow.exe
